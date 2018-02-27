@@ -26,5 +26,5 @@ This is a dedicated repository for maintaining documents with advice/lessons/gui
 
 ## How to Join the Discussion
 1. [Join ECEIG](https://www.rd-alliance.org/groups/early-career-and-engagement-ig)
-2. [Join the Slack group](https://rda-eceig.slack.com/) - the invitation link is [here](https://join.slack.com/t/rda-eceig/shared_invite/enQtMzAwMzA0NzQxMjE2LWMxMWJhZmMyM2VhOWE2YmE2NjMyZTUxNWI4NTNiMjY2ZjQ1YWUzNjNiMDY4ZDkzZmZmMDE2ZGNkNWYwOTlmMWU)).
+2. [Join the Slack group](https://rda-eceig.slack.com/) - the invitation link is [here](https://join.slack.com/t/rda-eceig/shared_invite/enQtMzAwMzA0NzQxMjE2LWMxMWJhZmMyM2VhOWE2YmE2NjMyZTUxNWI4NTNiMjY2ZjQ1YWUzNjNiMDY4ZDkzZmZmMDE2ZGNkNWYwOTlmMWU).
 3. Monitor the documents and information in this repository.
