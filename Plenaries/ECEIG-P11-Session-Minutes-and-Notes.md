@@ -1,8 +1,8 @@
 # Early Career Engagement Interest Group (ECEIG) Meeting 11th Plenary Meeting
 
-**Date** Wednesday, March 21st 2018
-**Location**: Berlin, Germany
-**Session title**: Supporting Early Career Researchers and Professionals
+**Date** Wednesday, March 21st 2018 </br>
+**Location**: Berlin, Germany </br>
+**Session title**: Supporting Early Career Researchers and Professionals </br>
 **URL**: [RDA P11 Session Page](https://www.rd-alliance.org/ig-early-career-and-engagement-rda-11th-plenary-meeting)
 
 ### Chairs: [Dr Devan Ray Donaldson](https://www.rd-alliance.org/users/devan-ray-donaldson), [Dr Fotis Psomopoulos](https://www.rd-alliance.org/users/fotis-psomopoulos), [Ms Elli Papadopoulou](https://www.rd-alliance.org/users/elli-papadopoulou)
@@ -29,22 +29,22 @@
 
 ## Participant List
 
-Iryna Kuchma, EIFL
-Jonas Kahle, WZB
-Nigel Rees, ANU (NCI)
-Sarah Jones, DCC
-Brandon Costelloe-Kuehn, Rensselaer Polytechnic Institute
-Sarah Ramdeen, University of Alabama
-Lorinette S. Wirth, Saint Louis University
-John Borghi, California Digital Library
-Vivian L. Wong, University of California
-Shaun de Witt, UKAEA
-Raman Ganguly, University of Vienna
-Anne Thessen, The Data Detektiv
-Asahiko Matsuda, Japan
-Vivian Wong, University of California
-Lynn Yarmey, RDA Secretariat
-Kyle van Gaeveren, Vrije Universiteit Brussel
+Iryna Kuchma, EIFL </br>
+Jonas Kahle, WZB </br>
+Nigel Rees, ANU (NCI) </br>
+Sarah Jones, DCC </br>
+Brandon Costelloe-Kuehn, Rensselaer Polytechnic Institute </br>
+Sarah Ramdeen, University of Alabama </br>
+Lorinette S. Wirth, Saint Louis University </br>
+John Borghi, California Digital Library </br>
+Vivian L. Wong, University of California </br>
+Shaun de Witt, UKAEA </br>
+Raman Ganguly, University of Vienna </br>
+Anne Thessen, The Data Detektiv </br>
+Asahiko Matsuda, Japan </br>
+Vivian Wong, University of California </br>
+Lynn Yarmey, RDA Secretariat </br>
+Kyle van Gaeveren, Vrije Universiteit Brussel </br>
 
 
 ## Minutes
@@ -73,35 +73,35 @@ Use Slack to develop threads derived by topics identified in questions posed by 
 
 ## Lightning Talks
 
-[Sarah Ramdeen](https://rd-alliance.org/users/ramdeen)
-University of Alabama
+[Sarah Ramdeen](https://rd-alliance.org/users/ramdeen) </br>
+University of Alabama </br>
 Librarian; recently defended dissertation :)
 
-*Topics:* inconsistent metadata, difficult access points to physical samples, eg rock samples 
-Interested to see outcomes and products that might be used by others
+*Topics:* inconsistent metadata, difficult access points to physical samples, eg rock samples </br>
+Interested to see outcomes and products that might be used by others</br>
 Part of IGs and WGs for physical samples; Co-Chair of Archives and Records Professionals for Research Data IG; Member of RDA TAB Liaisons
 
 *Expectations from the ECEIG:*
-A space for mentorship in navigating international collaborations and research opportunities that develop out of RDA.
-A venue to create opportunities and provide support for early career members. 
-A place to find peers who understand the challenges faced when early in one's career
-A conduit for sharing experiences and challenges faced by EC folks back up the chain to RDA leadership.
+A space for mentorship in navigating international collaborations and research opportunities that develop out of RDA. </br>
+A venue to create opportunities and provide support for early career members. </br>
+A place to find peers who understand the challenges faced when early in one's career </br>
+A conduit for sharing experiences and challenges faced by EC folks back up the chain to RDA leadership. </br>
 Also, how to facilitate new WG/IG ideas from early-career folks.
 
 
-[John Borghi](https://rd-alliance.org/users/john-borghi)
-Digital Libraries California
+[John Borghi](https://rd-alliance.org/users/john-borghi) </br>
+Digital Libraries California </br>
 Before: neuroscientist
 
-*Recent achievement:* Survey on Data Management practices in neuroimaging
-Questions asked to scientists: where they published and how they managed data, etc.
-Results: Emerging Practices - pre-print 
+*Recent achievement:* Survey on Data Management practices in neuroimaging </br>
+Questions asked to scientists: where they published and how they managed data, etc. </br>
+Results: Emerging Practices - pre-print </br>
 Interesting fact of the survey: discussions with psychologists 
 
 *Expectations from the ECEIG:* Community; although not newcomer, RDA still does not feel as open of a community.
 
 
-Anne Thiessen
+Anne Thiessen </br>
 Data Ambassador
 
 Funding for US has ended
@@ -113,12 +113,12 @@ Funding for US has ended
 Question posed by Anne: How would relevant suggestions to funders look like?
 
 
-[Brandon Costelloe-Kuehn](https://www.rd-alliance.org/users/brcostelloekuehn)
+[Brandon Costelloe-Kuehn](https://www.rd-alliance.org/users/brcostelloekuehn) </br>
 Rensselaer Polytechnic Institute
 
-*Recent research:* Collaboration and communication of science mainly at the end of the project in environmental sciences and SSH 
-*Everyday job relates to:* metadata and data analysis and primary data 
-Platform for ethnography - experimental
+*Recent research:* Collaboration and communication of science mainly at the end of the project in environmental sciences and SSH </br>
+*Everyday job relates to:* metadata and data analysis and primary data </br>
+Platform for ethnography - experimental </br>
 Co-chair of Imperi metadata group
 
 *Expectations from the ECEIG:*
@@ -126,21 +126,21 @@ Co-chair of Imperi metadata group
 - Networking and meeting people!
 
 
-[Asahiko Matsuda](https://www.rd-alliance.org/users/asahiko-matsuda)
+[Asahiko Matsuda](https://www.rd-alliance.org/users/asahiko-matsuda) </br>
 National Institute of Material Science in Japan, post doc
 
-*Plan:* Build a data platform
-Problem when integrating experiments in the platform
+*Plan:* Build a data platform </br>
+Problem when integrating experiments in the platform </br>
 Q: How is reproducibility ensured? - relieved to know others have dealt/are dealing with the same issue
 
 *Expectations from the ECEIG:* Communication and research interests exchange
 
 
-[Vivian Wong](https://www.rd-alliance.org/users/vivian-wong)
-University of California
+[Vivian Wong](https://www.rd-alliance.org/users/vivian-wong) </br>
+University of California </br>
 Archivist
 
-Studied diasporic groups East Asian and Asian and knowledge transfer
+Studied diasporic groups East Asian and Asian and knowledge transfer </br>
 *Topics:* Archival research and ethnographic data
 
 *Current research interest:* How to make oral history data searchable; challenges in creating such data: eg media software familiarity and preservation
@@ -148,10 +148,10 @@ Studied diasporic groups East Asian and Asian and knowledge transfer
 *Expectations from the ECEIG:* Friendly environment; space that provides support
 
 
-[Lorinette S. Wirth](https://www.rd-alliance.org/users/lorinette-wirth)
+[Lorinette S. Wirth](https://www.rd-alliance.org/users/lorinette-wirth) </br>
 Saint Louis University
 
-*Topic:* Social media - messy data!
+*Topic:* Social media - messy data! </br>
 Currently working on Social Media Data Framework
 
 *Expectations from the ECEIG:* How to get RDA involved for the project; feedback and excitement from people
@@ -162,32 +162,32 @@ Mentoring Programme’s minimum requirements: https://github.com/fpsom/rda-eceig
 
 ## Mentors
 
-[Sarah Jones](https://www.rd-alliance.org/users/sjdcc)
-Archivist, Digital Curation Center (DCC)
-Mostly data curation and DMPs
-RDA-4 Europe: funds to early careers
+[Sarah Jones](https://www.rd-alliance.org/users/sjdcc) </br>
+Archivist, Digital Curation Center (DCC) </br>
+Mostly data curation and DMPs </br>
+RDA-4 Europe: funds to early careers </br>
 Connect people 
 
 
-[Lynn Yarmey](https://rd-alliance.org/users/yarmey)
-RDA Secretariat
+[Lynn Yarmey](https://rd-alliance.org/users/yarmey) </br>
+RDA Secretariat </br>
 Interest in growing new leaders, making new connections, appreciate/promote everyone’s perspective 
 
 
-[Jörg Geiger](https://www.rd-alliance.org/users/joerggeiger)
-BioBanking
-Privacy, ethics, modelling, standardisation activities
+[Jörg Geiger](https://www.rd-alliance.org/users/joerggeiger) </br>
+BioBanking </br>
+Privacy, ethics, modelling, standardisation activities </br>
 Prepared to help, enjoys discussions and explaining things
 
 
-[Shaun de Witt](https://www.rd-alliance.org/users/shaun-de-witt)
-Main interest: metadata, provenance
+[Shaun de Witt](https://www.rd-alliance.org/users/shaun-de-witt) </br>
+Main interest: metadata, provenance </br>
 Interested in learning and teaching
 
 
-[Raman Ganguly](https://www.rd-alliance.org/users/raman-ganguly)
-Austria, University of Vienna
-Important the engagement of researchers
+[Raman Ganguly](https://www.rd-alliance.org/users/raman-ganguly) </br>
+Austria, University of Vienna </br>
+Important the engagement of researchers </br>
 Infrastructures related questions - keen in learning and developing use-cases
 
 Elli gave apologies on behalf of Peter McQuilton from the University of Oxford, who expressed his interest in being a mentor though he couldn’t make it to the RDA Plenary. Peter is closely associated to FAIRsharing, an interlinked platform that contains registries of standards, databases and data policies.
