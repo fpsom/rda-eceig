@@ -1,7 +1,7 @@
 # RDA Early Career and Engagement IG
 
 **Status**: Recognised & Endorsed
-**Chairs**: Devan Ray Donaldson; Fotis Psomopoulos
+**Chairs**: Devan Ray Donaldson; Fotis Psomopoulos; Elli Papadopoulou
 
 The purpose of the [RDA Early Career and Engagement IG (ECEIG)](https://www.rd-alliance.org/groups/early-career-and-engagement-ig)  is to provide a focal point for Early and Mid-Career Researchers and Professionals, including those involved in various RDA-related fellowships and Early Career programs.
 
