@@ -28,6 +28,7 @@ This is a dedicated repository for maintaining documents with advice/lessons/gui
 1. [Join ECEIG](https://www.rd-alliance.org/groups/early-career-and-engagement-ig)
 2. [Join the Slack group](https://rda-eceig.slack.com/) - the invitation link is [here](https://join.slack.com/t/rda-eceig/shared_invite/enQtMzAwMzA0NzQxMjE2LWMxMWJhZmMyM2VhOWE2YmE2NjMyZTUxNWI4NTNiMjY2ZjQ1YWUzNjNiMDY4ZDkzZmZmMDE2ZGNkNWYwOTlmMWU).
 3. Monitor the documents and information in this repository.
+4. Follow us on [twitter](https://twitter.com/rdaeceig)
 
 ## Code of Conduct
 ECEIG and any other related forms of communication fall under the [**RDA Code of Conduct**](https://www.rd-alliance.org/group/rda-council-private/outcomes/draft-comment-rda-code-conduct).
