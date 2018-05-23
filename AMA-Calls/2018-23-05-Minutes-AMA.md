@@ -15,6 +15,7 @@ Connection info: [Hangouts Call](https://hangouts.google.com/call/qdLcQKo2GD7wvs
 * Raman Ganguly
 * Neema Gamasa
 
+Apologies from: Marta Teperek, Shaun de Witt
 
 ## Agenda
 - Welcome, Code-of-Conduct
@@ -73,7 +74,7 @@ landscape overview and analysis, data management, networking </br>
 
 - Mentees </br>
 
-Anna from Slovenia </br>
+Ana Slavek from Slovenia </br>
 consulting statistician </br>
 helping with DM, oversese DMPs </br>
 have worked for the data archive </br>
@@ -100,7 +101,7 @@ Doodle poll to be sent shortly.
 
 - [List of RDA Members](https://www.rd-alliance.org/members)
 
-*Q1: What would be the sources of funding to establish this network?
+*Q1: What would be the sources of funding to establish a network of repositories?*
 
 Lynn: look for existing partners; staring from repository perspective work with someone who has already infrastructure and can support this- eg re3data
 recommendation: partner strategically
@@ -110,7 +111,7 @@ Sarah: there are many repositories - there are some funders supporting such deve
 Pete: FAIRSharing - look there to see what’s there for life and natural sciences - could reach out to them and see how collaborations could be achieved; also other projects providing funding opportunities, eg EOSCpilot
 
 
-*Q2: RDA involvement - how to interact and participate fully with RDA?
+*Q2: RDA involvement - how to interact and participate fully with RDA?*
 How to make people understand about RDA?
 
 - everyone can join as member, no limit to senior or early careers - WGs, IGs around many activities
@@ -123,13 +124,13 @@ How to make people understand about RDA?
 
 
 ### Networking Capacity
- *Q1: Networking? How to achieve that in different domains?
+ *Q1: Networking? How to achieve that in different domains?*
 
 Raman: RDA can help because you have the opportunity to see people working in same things with different backgrounds etc
 
 Sarah and Lynn: Maybe worth looking at Data groups for reproducibility , blockchain + Agriculture groups; RDAgroups.org for contact, enquiries -> you can start your own group as well, maybe as a BoF or TF? + attend meetings
 
 ### Other
- *Q1: What are the plans for Botswana? 
+ *Q1: What are the plans for Botswana?*
  
 Devan: submit and run a session explaining the Mentoring Programme, getting to know each other and introduce mentors to mentees, have discussions for research interests; provide support in any way possible
