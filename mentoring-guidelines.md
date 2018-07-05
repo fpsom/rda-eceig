@@ -3,6 +3,7 @@ ECEIG Guidelines for mentors and mentees
 
 ## Guidelines for mentors
 - Attend ECEIG sessions at RDA Plenaries to provide feedback and comments to early career professionals and other participants.
+- Attend monthly [**AMA teleconferences**](https://iu.zoom.us/j/6703697984?pwd=&status=success)
 - Join discussions through the [dedicated **Slack group**](https://rda-eceig.slack.com/).
 - Respond promptly to questions from early career people on slack, that are
     i. relevant to your expertise and/or
@@ -11,6 +12,7 @@ ECEIG Guidelines for mentors and mentees
 
 ## Guidelines for mentees
 - Attend ECEIG sessions at RDA Plenaries and participate in session activities.
+- Attend monthly [**AMA teleconferences**](https://iu.zoom.us/j/6703697984?pwd=&status=success)
 - Join discussions through the dedicated Slack group - ask questions to either the general channel or to topic-specific channels.
 - When asking a question try to be as specific as possible so that the right person can address it.
 - Promote your work and your interests.
