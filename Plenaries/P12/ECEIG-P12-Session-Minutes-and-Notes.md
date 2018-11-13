@@ -29,7 +29,48 @@
 
 
 ## Participant List
-
+Jonthan Petters
+Brenda Nsanzya
+Justin Buck
+Ana Slavec
+Yasemin Turkyilmaz
+Dorothea Strecker
+Martina Trognitz
+Lausa Rothlitz?
+Rossella Aversa
+Kabela L Maus?
+David Obrien
+Anne Clift-Hill
+Keamogebe Kgwee
+Mtuyiselo Ndlouuz
+Olebile Bolobilwe
+Julia Gaorellwe
+Khana Nthoiwa
+R. Meme Mahalel?
+Koen Dekeyser
+Tomasz Miksa?
+Badisa Mosesane?
+Timea Biro
+Joao Rocha Da Silva
+Gobopaone Chabaditsile?
+Alice Fremand
+Lena Nyahodza
+Josiline Chigwada
+Rose Higman
+Raman Ganguly
+Marta Teperek
+Mattia Vaccari
+Tshepisd? Siele
+Tibone Moalosi
+Melitah Mosekiemawg
+Kabelo Gadise
+Poloko Ntokwane
+Fiona Murphy
+Tlameo Sekambo
+Darqie? T. Berhe
+Anne Thessen
+Devan Donaldson
+Steve Diggs
 
 
 ## Minutes
