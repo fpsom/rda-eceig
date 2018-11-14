@@ -29,48 +29,49 @@
 
 
 ## Participant List
-Jonthan Petters
-Brenda Nsanzya
-Justin Buck
-Ana Slavec
-Yasemin Turkyilmaz
-Dorothea Strecker
-Martina Trognitz
-Lausa Rothlitz?
-Rossella Aversa
-Kabela L Maus?
-David Obrien
-Anne Clift-Hill
-Keamogebe Kgwee
-Mtuyiselo Ndlouuz
-Olebile Bolobilwe
-Julia Gaorellwe
-Khana Nthoiwa
-R. Meme Mahalel?
-Koen Dekeyser
-Tomasz Miksa?
-Badisa Mosesane?
-Timea Biro
-Joao Rocha Da Silva
-Gobopaone Chabaditsile?
-Alice Fremand
-Lena Nyahodza
-Josiline Chigwada
-Rose Higman
-Raman Ganguly
-Marta Teperek
-Mattia Vaccari
-Tshepisd? Siele
-Tibone Moalosi
-Melitah Mosekiemawg
-Kabelo Gadise
-Poloko Ntokwane
-Fiona Murphy
-Tlameo Sekambo
-Darqie? T. Berhe
-Anne Thessen
-Devan Donaldson
-Steve Diggs
+
+1. Jonthan Petters
+2. Brenda Nsanzya
+3. Justin Buck
+4. Ana Slavec
+5. Yasemin Turkyilmaz
+6. Dorothea Strecker
+7. Martina Trognitz
+8. Lausa Rothlitz?
+9. Rossella Aversa
+10. Kabela L Maus?
+11. David Obrien
+12. Anne Clift-Hill
+13. Keamogebe Kgwee
+14. Mtuyiselo Ndlouuz
+15. Olebile Bolobilwe
+16. Julia Gaorellwe
+17. Khana Nthoiwa
+18. R. Meme Mahalel?
+19. Koen Dekeyser
+20. Tomasz Miksa?
+21. Badisa Mosesane?
+22. Timea Biro
+23. Joao Rocha Da Silva
+24. Gobopaone Chabaditsile?
+25. Alice Fremand
+26. Lena Nyahodza
+27. Josiline Chigwada
+28. Rose Higman
+29. Raman Ganguly
+30. Marta Teperek
+31. Mattia Vaccari
+32. Tshepisd? Siele
+33. Tibone Moalosi
+34. Melitah Mosekiemawg
+35. Kabelo Gadise
+36. Poloko Ntokwane
+37. Fiona Murphy
+38. Tlameo Sekambo
+39. Darqie? T. Berhe
+40. Anne Thessen
+41. Devan Donaldson
+42. Steve Diggs
 
 
 ## Minutes
