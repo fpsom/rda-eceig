@@ -46,6 +46,8 @@ Code-of-Conduct
 
 2. **Topic of the month**: "_Introduction to Text Mining and its applications_" (by Luca Foppiano)
 
+  [Slides of the talk available here](https://hal.inria.fr/hal-02045341)
+  
   Luca started to work on the field 4 years ago at the EU Patents office. He has then participated in many projects.
   Types of TDM:
   - Information retrieval
