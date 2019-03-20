@@ -67,13 +67,13 @@ Training to nurture best practices:
 Raman: from the perspective of humanities they are facing the same issues; in the end you ahve an application but what happens after the project ends?
 good idea: metadata for software and software management plans
 
-    **Material**
+   **Material**
     
-    - [4 Simple recommendations for Open Source Software lesson](https://softdev4research.github.io/4OSS-lesson/)
-        - Corresponding [GitHub repo](https://github.com/SoftDev4Research/4OSS-lesson)
-    - [Top 10 metrics for life science software good practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007752/)
-    - [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)
-    - Link to the slides [here](https://github.com/fpsom/rda-eceig/raw/master/AMA-Calls/RDA-March-AMA-2019-4OSS.pdf)
+   - [4 Simple recommendations for Open Source Software lesson](https://softdev4research.github.io/4OSS-lesson/)
+       - Corresponding [GitHub repo](https://github.com/SoftDev4Research/4OSS-lesson)
+   - [Top 10 metrics for life science software good practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007752/)
+   - [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)
+   - Link to the slides [here](https://github.com/fpsom/rda-eceig/raw/master/AMA-Calls/RDA-March-AMA-2019-4OSS.pdf)
 
 
 ## Q&A
