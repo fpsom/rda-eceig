@@ -27,7 +27,25 @@ Code-of-Conduct
 
 
 ## Minutes
-Fotis Bio ; coordinator of the training platform in Greece and platform for research software development
+
+### Code of Conduct
+
+[RDA Code of Coduct](https://www.rd-alliance.org/group/rda-council-private/outcomes/draft-comment-rda-code-conduct)
+- Respect others and their contributions
+- Don’t make people feel uncomfortable
+- No means no
+
+### Structure of the call
+
+1. **Welcome**
+    - Fotis welcomed everyone and run through the agenda and the topics to be discussed.
+    - Reminded that the AMA calls are monthly, on the third Wednesday of each month. This means that our next AMA call will be [**Wednesday, April 17th**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RDA+ECEIG+9th+AMA&iso=20190417T10&p1=3723&ah=1)
+    - At the end of the document, we have an _"I can offer... / I need help in..."_ Section. Feel free to add anything there.
+    - We will be thanking all of you in an ECEIG tweet after this call. So if you are interested, please add your twitter handles.
+
+2. **Topic of the month**: "_Four simple recommendations for research software development_" (by [Fotis E. Psomopoulos](https://fpsom.github.io/))
+
+Fotis Bio; deputy coordinator of the training platform in Greece and co-lead of the Best Practises for Research Software WG.
 - ELIXIR is a paneuropean infra project on life scineces focused in bioibformatics (5years now); tools that can facilitate research lifecycle and training to the services and topics life computing related
 - They have nodes, coordinated by a hub
 
@@ -48,24 +66,6 @@ Training to nurture best practices:
 
 Raman: from the perspective of humanities they are facing the same issues; in the end you ahve an application but what happens after the project ends?
 good idea: metadata for software and software management plans
-
-### Code of Conduct
-
-[RDA Code of Coduct](https://www.rd-alliance.org/group/rda-council-private/outcomes/draft-comment-rda-code-conduct)
-- Respect others and their contributions
-- Don’t make people feel uncomfortable
-- No means no
-
-### Structure of the call
-
-1. **Welcome**
-    - Fotis welcomed everyone and run through the agenda and the topics to be discussed.
-    - Reminded that the AMA calls are monthly, on the third Wednesday of each month. This means that our next AMA call will be [**Wednesday, April 17th**](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RDA+ECEIG+9th+AMA&iso=20190417T10&p1=3723&ah=1)
-    - At the end of the document, we have an _"I can offer... / I need help in..."_ Section. Feel free to add anything there.
-    - We will be thanking all of you in an ECEIG tweet after this call. So if you are interested, please add your twitter handles.
-
-2. **Topic of the month**: "_Four simple recommendations for research software development_" (by [Fotis E. Psomopoulos](https://fpsom.github.io/))
-
 
     **Material**
     
