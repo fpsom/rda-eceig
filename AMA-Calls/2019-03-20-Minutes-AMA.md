@@ -1,4 +1,4 @@
-# RDA ECEIG 9th AMA
+﻿# RDA ECEIG 9th AMA
 
 [*March 20th, 2019*](https://www.timeanddate.com/worldclock/fixedtime.html?msg=RDA+ECEIG+8th+AMA&iso=20190320&p1=3723&ah=1)
 Connection info: [Zoom Call](https://iu.zoom.us/j/6703697984)
@@ -73,7 +73,7 @@ good idea: metadata for software and software management plans
        - Corresponding [GitHub repo](https://github.com/SoftDev4Research/4OSS-lesson)
    - [Top 10 metrics for life science software good practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007752/)
    - [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)
-   - Link to the slides [here](https://github.com/fpsom/rda-eceig/raw/master/AMA-Calls/RDA-March-AMA-2019-4OSS.pdf)
+   - Link to the slides [here](https://github.com/fpsom/rda-eceig/raw/master/AMA-Calls/2019-03-20-Presentation-Topic-Slides-4OSS.pdf)
 
 
 ## Q&A
