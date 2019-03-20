@@ -73,7 +73,7 @@ good idea: metadata for software and software management plans
         - Corresponding [GitHub repo](https://github.com/SoftDev4Research/4OSS-lesson)
     - [Top 10 metrics for life science software good practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5007752/)
     - [Four simple recommendations to encourage best practices in research software](https://f1000research.com/articles/6-876/v1)
-    - Link to the slides [here]()
+    - Link to the slides [here](https://github.com/fpsom/rda-eceig/raw/master/AMA-Calls/RDA-March-AMA-2019-4OSS.pdf)
 
 
 ## Q&A
