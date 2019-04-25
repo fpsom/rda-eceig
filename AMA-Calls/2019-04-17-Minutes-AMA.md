@@ -14,6 +14,7 @@ Connection info: [Zoom Call](https://iu.zoom.us/j/6703697984)
 _apologies from_
 
 - Mervyn O'Luing, The Insight Centre for Data Analytics, Ireland
+- Marta Teperek, TU Delft, the Netherlands
 
 
 ## Agenda
