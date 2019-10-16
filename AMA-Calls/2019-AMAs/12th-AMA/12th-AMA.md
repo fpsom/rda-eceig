@@ -1,4 +1,4 @@
-# RDA ECEIG 12th AMA (September 2019)
+# RDA ECEIG 11th AMA (September 2019)
 
 [*September 18th, 2019*]
 Connection info: [Zoom Call](https://iu.zoom.us/j/6703697984)
